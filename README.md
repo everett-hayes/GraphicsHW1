@@ -17,3 +17,7 @@ The smooth pinch of the geometries is featured in the vertex shaders. The rotati
 
 6.) Events
 The heart and donut will move with "wasd" and will wrap around the page.
+
+## How to Build and View
+
+`$ gradle build && http-server .`
